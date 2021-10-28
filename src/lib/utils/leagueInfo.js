@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Some people call it a soup kitchen. I call it Dynasty Fantasy Football. The league is a collection of the greatest fantasy football players that I could find, literally.. there was no one else out there. With Dirty Mike as our feared leader, The Boys will embard on a 17 week journey to find out who is the best. And then we do the same thing with the same people with the same players.. next year.</p>
+  <p>Some people call it a soup kitchen. I call it Dynasty Fantasy Football. The league is a collection of the greatest fantasy football players that I could find, literally.. there was no one else out there. With Dirty Mike as our feared leader, The Boys will embark on a 17 week journey to find out who is the best. And then we do the same thing with the same people with the same players.. next year.</p>
   <p>We held our inaugural draft on Tuesday August 24th at 7:30pm. The Boys did a fantastic job and when the night was done and the dust settled, no one knew what the fuck was going on. Some people had 4 TEs, some people had a whole team on the verge of retirement while others had a team full of titty sucking newborns. Our destinies are set, now the dynasty begins.</p>
  
 
