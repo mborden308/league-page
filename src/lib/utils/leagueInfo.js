@@ -27,7 +27,7 @@ export const managers = [
        "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Michael Borden aka Dirty Mike",
        "location": "Minneapolis, MN", // (optional)
-       "bio": "My Name is Dirty Mike. I believe in the soul, the as, the pussy, the small of a womans back, hitting the honey hole on cover two, high fiber, good scotch, that the Bears do and always will suck, I believe that Tom Brady deflated footballs, I believe there ought to be a consitutitional ammendment outlawing Roger Goodell from recieving a paycheck. I believe in going for it on 4th, screen plays, opening your presents on Christmas morning rather than Christmas Eve and I believe in long, slow, soft wet grass on a late fall morning",
+       "bio": "My Name is Dirty Mike. I believe in the soul, the pigskin, going sleevless in the snow, hitting the honey hole on cover two, high fiber, good scotch, that the Bears do and always will suck, I believe that Tom Brady deflated footballs, I believe there ought to be a consitutitional ammendment outlawing Roger Goodell from recieving a paycheck. I believe in going for it on 4th, screen plays, opening your presents on Christmas morning rather than Christmas Eve and I believe in long, slow, soft wet grass on a late fall morning",
        "photo": "/managers/DirtyMike.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2006, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
